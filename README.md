@@ -12,5 +12,4 @@ INSTRUCTIONS:
 6) create a superuser using "python manage.py createsuperuser"
 7) lastly run "python manage.py runserver" in django-backend and "npm start" in react-frontend
 
-
-
+Let me know what you think of this project :)
